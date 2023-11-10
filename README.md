@@ -8,3 +8,5 @@ binary classifier which classifies object presence in images or image crops. The
 The repository presents the code to train such a system (in `train.py`), with a saved model for prostate cancer localisation presented in `predictor`.
 
 Examples of the predicted localisation, compared with other commonly used methods are presented below (green: ground truth; red: predicted):
+
+![](samples.png)

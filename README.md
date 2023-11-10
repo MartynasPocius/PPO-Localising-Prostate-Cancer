@@ -1,4 +1,4 @@
-# WEAKLY SUPERVISED LOCALISATION USING REINFORCEMENT LEARNING
+# Weakly supervised localisation using reinforcement learning
 
 This repository introduces a reinforcement learning based weakly supervised system for localisation.
 
